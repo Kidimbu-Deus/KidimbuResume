@@ -6,9 +6,13 @@ body{
 
 header {
   text-align: center;
+  background-color: aqua ;
 }
 
 footer {
   background-color: #343330;
   text-align: center;
 }
+
+#sidebar {background-color: lightgray;
+width: 200px;}
