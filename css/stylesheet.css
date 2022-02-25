@@ -18,14 +18,12 @@ header {
   width: 15%;
   height: 15%;
   border-radius: 50%;
-  border: 3px solid rgb(208, 255, 0);
+  border: 3px solid #d1603d;
 }
 
 .main{display: flex;
   flex-direction: row;
   overflow: unset;}
-
-#subjects{ font-size: 15px;font-style: italic;}
 
 
 .listing{padding: 0; 
@@ -37,10 +35,10 @@ footer{
   text-align: center;
 }
 
-#sidebar {background-color: rgb(105, 134, 35);
+#sidebar {background-color: rgba(35, 134, 117, 0.473);
 width: 200px; padding: 1rem; list-style:none;}
 
-#contents {padding: 0.5rem;
+#contents {padding: 1rem;
 }
 
 
